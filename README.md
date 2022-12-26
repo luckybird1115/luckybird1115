@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>WELCOME TO GREENDEV GITHUB</h1>
+  <h1>WELCOME TO MY GITHUB</h1>
 </div> 👋
 
 ### <div align="center">A generalist software developer who prefer working in a fast-paced environment and can learn fast 🚀</div>  
@@ -8,12 +8,13 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a Lead / Senior Full Stack Developer for serveral companies.
+- 🔭 My top skills -3D Interactive Website Development using React.js, Three.js, Vue.js
 - 🌱 I’m currently learning Golang, Rust for high performance backend development.
 - 👯 I’m looking to collaborate on well organized small engineering team.
-- 📫 How to reach me: Telegram-ID is Green25Dev / Skype-ID is live:.cid.540fe7bab999e3b7
+- 📫 How to reach me: Telegram-ID is luckybird1115 
 
 <br/>  
-Contact me on <b>Telegram</b>: Green25Dev
+Contact me on <b>Telegram</b>: luckybird1115 
 <br/>
 
 <table><tr><td valign="top" width="50%">
