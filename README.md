@@ -2,7 +2,7 @@
   <h1>WELCOME TO MY GITHUB</h1>
 </div> 👋
 
-### <div align="center">A generalist software developer who prefer working in a fast-paced environment and can learn fast 🚀</div>  
+### <div align="center">Ryo Mukaitsubo - A generalist software developer who prefer working in a fast-paced environment and can learn fast 🚀</div>  
 
 
 Here are some ideas to get you started:
