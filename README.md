@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🔭 My top skills -3D Interactive Website Development using React.js, Three.js, Vue.js
 - 🌱 I’m currently learning Golang, Rust for high performance backend development.
 - 👯 I’m looking to collaborate on well organized small engineering team.
-- 📫 How to reach me: Telegram-ID is luckybird1115 
+
 
 <br/>  
 <!-- Contact me on <b>Telegram</b>: luckybird1115  -->
